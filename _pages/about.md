@@ -8,12 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Computer Science department at Purdue University, working under the guidance of Prof. Antonio Bianchi. My research interests encompass a wide range of mobile security topics, with a current focus on SMS OTP authentication, Android scoped storage vulnerability analysis, and mobile driving license standard ISO 18013-5. I primarily concentrate on developing novel security frameworks by leveraging differential analysis for vulnerability detection and formal verification techniques to ensure the robustness of mobile systems.
+I am a Ph.D. candidate in the Computer Science department at Purdue University, working under the guidance of Prof. Antonio Bianchi. My research interests encompass a wide range of mobile security topics, with a current focus on SMS OTP authentication, Android scoped storage vulnerability analysis, and mobile driving license standard ISO 18013-5. I primarily concentrate on developing novel security frameworks by leveraging differential analysis for vulnerability detection and formal verification techniques to ensure the robustness of mobile systems.
 
 
 Publications
 ======
 <ul>
+	<li>
+        <b>ScopeVerif: Analyzing the Security of Android's Scoped Storage via Differential Analysis</b>
+        <br/>
+        <b>Zeyu Lei</b>, Güliz Seray Tuncay, Beatrice Carissa Williem, Z. Berkay Celik, and Antonio Bianchi
+        <br/>
+        Network and Distributed Systems Security (NDSS) Symposium 2025
+        <br/>
+    </li>
 	<li><b>On the insecurity of SMS one-time password messages against local attackers in modern mobile devices</b>
 			<br/>
 			<b>Zeyu Lei</b>, Yuhong Nan, Yanick Fratantonio, and Antonio Bianchi
@@ -22,6 +30,7 @@ Publications
 			<br/>
 	</li>
 </ul>
+
 
 Talks
 ======

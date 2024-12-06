@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zeyu Lei"
 title_separator          : "-"
 name                     : &name "Zeyu Lei"
-description              : &description "Ph.D. Student @ Purdue University"
+description              : &description "Ph.D. Candidate @ Purdue University"
 url                      : https://leizeyu.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zeylei/zeylei.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zeyu Lei"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student @ Purdue University"
-  location         : "West Lafayette, IN, United States"
+  bio              : "Ph.D. Candidate @ Purdue University"
+  location         : "Lafayette, IN, United States"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=9rVWPpcAAAAJ"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zeylei"
+  github           : #"zeylei"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : zeyu-lei
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : raines1220
   vine             :
   weibo            :
   xing             :
