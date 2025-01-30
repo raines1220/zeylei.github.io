@@ -14,22 +14,23 @@ I am a Ph.D. candidate in the Computer Science department at Purdue University, 
 Publications
 ======
 <ul>
-	<li>
+    <li>
         <b>ScopeVerif: Analyzing the Security of Android's Scoped Storage via Differential Analysis</b>
         <br/>
-        <b>Zeyu Lei</b>, Güliz Seray Tuncay, Beatrice Carissa Williem, Z. Berkay Celik, and Antonio Bianchi
-        <br/>
-        Network and Distributed Systems Security (NDSS) Symposium 2025
-        <br/>
+        <b>Zeyu Lei</b>, Güliz Seray Tuncay, Beatrice Carissa Williem, Z. Berkay Celik, and Antonio Bianchi.
+        In <i>Proceedings of the Network and Distributed Systems Security (NDSS) Symposium 2025</i>
     </li>
-	<li><b>On the insecurity of SMS one-time password messages against local attackers in modern mobile devices</b>
-			<br/>
-			<b>Zeyu Lei</b>, Yuhong Nan, Yanick Fratantonio, and Antonio Bianchi
-			<br/>
-			Network and Distributed Systems Security (NDSS) Symposium 2021<a href="https://www.ndss-symposium.org/wp-content/uploads/ndss2021_3B-4_24212_paper.pdf">[Paper]</a>, <a href="https://www.youtube.com/watch?v=LRbqWVsKHrU&list=PLfUWWM-POgQu1EkKkAqZ310exzJs7YZmM&index=4">[Video]</a>, <a href="https://docs.google.com/presentation/d/1nyROsBDJEcOiJRRXv3ncgNyt2oPMYkeaeXTOpeg9EjI/edit?usp=sharing">[Slides]</a> 
-			<br/>
-	</li>
+    <li>
+        <b>On the insecurity of SMS one-time password messages against local attackers in modern mobile devices</b>
+        <br/>
+        <b>Zeyu Lei</b>, Yuhong Nan, Yanick Fratantonio, and Antonio Bianchi.
+        In <i>Proceedings of the Network and Distributed Systems Security (NDSS) Symposium 2021</i>
+        <a href="https://www.ndss-symposium.org/wp-content/uploads/ndss2021_3B-4_24212_paper.pdf">[Paper]</a>, 
+        <a href="https://www.youtube.com/watch?v=LRbqWVsKHrU&list=PLfUWWM-POgQu1EkKkAqZ310exzJs7YZmM&index=4">[Video]</a>, 
+        <a href="https://docs.google.com/presentation/d/1nyROsBDJEcOiJRRXv3ncgNyt2oPMYkeaeXTOpeg9EjI/edit?usp=sharing">[Slides]</a>
+    </li>
 </ul>
+
 
 
 Talks
