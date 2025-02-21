@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zeyu Lei"
+title                    : "Raines"
 title_separator          : "-"
 name                     : &name "Zeyu Lei"
 description              : &description "Ph.D. Candidate @ Purdue University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zeyu Lei"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate @ Purdue University"
+  bio              : "Ph.D. Candidate in Computer Science @ Purdue University"
   location         : "Lafayette, IN, United States"
   employer         :
   pubmed           : 
